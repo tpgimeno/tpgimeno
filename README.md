@@ -6,7 +6,7 @@
 
 - 👀 I’m interested in software development and all the process behind
 - 🌱 I’m currently learning python
-- 📫 You can contact me in tony@tpgimeno.com
+- 📫 You can contact me in tony@itcsolutions.es
 
 
 
